@@ -1,0 +1,12 @@
+# WordPress Core
+wp-config.php
+wp-content/cache/
+wp-content/backups/
+wp-content/uploads/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Project Recovery
+dhammadhatu-backup.txt
