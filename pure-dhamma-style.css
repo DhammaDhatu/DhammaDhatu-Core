@@ -1,0 +1,13 @@
+/*
+ * Pure Dhamma - Canonical Visual Semantics
+ * Baseado na extração do banco de dados de backup do Prof. Lal
+ */
+
+:root {
+  --pd-primary-emphasis: #3366ff;    /* Azul: Usado para termos Pāli e links */
+  --pd-doctrinal-ref: #993366;       /* Púrpura: Usado para citações e Suttas */
+  --pd-alert-caution: #ff0000;       /* Vermelho: Avisos de Miccha Ditthi */
+  --pd-positive-result: #008000;     /* Verde: Estados de Kusala e Phala */
+  --pd-dhamma-gold: #ffb900;         /* Ouro: Destaques de navegação/Dhamma */
+  --pd-main-font: "Arial", "Helvetica", sans-serif;
+}
