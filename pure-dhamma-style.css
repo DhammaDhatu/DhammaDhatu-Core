@@ -1,13 +1,23 @@
-/*
- * Pure Dhamma - Canonical Visual Semantics
- * Baseado na extração do banco de dados de backup do Prof. Lal
+/* * Pure Dhamma - Canonical Visual Semantics / Semântica Visual Canónica
+ * Based on the backup database extraction / Baseado na extração do banco de dados de backup
  */
 
 :root {
-  --pd-primary-emphasis: #3366ff;    /* Azul: Usado para termos Pāli e links */
-  --pd-doctrinal-ref: #993366;       /* Púrpura: Usado para citações e Suttas */
-  --pd-alert-caution: #ff0000;       /* Vermelho: Avisos de Miccha Ditthi */
-  --pd-positive-result: #008000;     /* Verde: Estados de Kusala e Phala */
-  --pd-dhamma-gold: #ffb900;         /* Ouro: Destaques de navegação/Dhamma */
+  /* Blue: Used for Pāli terms and primary links / Azul: Usado para termos Pāli e links primários */
+  --pd-primary-emphasis: #3366ff;
+
+  /* Purple: Used for Sutta quotes and doctrinal references / Púrpura: Usado para citações de Suttas e referências doutrinárias */
+  --pd-doctrinal-ref: #993366;
+
+  /* Red: Alerts for Miccha Ditthi or cautions / Vermelho: Alertas para Miccha Ditthi ou cautelas */
+  --pd-alert-caution: #ff0000;
+
+  /* Green: Positive mental states (Kusala) or results (Phala) / Verde: Estados mentais positivos (Kusala) ou resultados (Phala) */
+  --pd-positive-result: #008000;
+
+  /* Gold: Navigation highlights and Dhamma emphasis / Ouro: Destaques de navegação e ênfase no Dhamma */
+  --pd-dhamma-gold: #ffb900;
+
+  /* Standard typography for clarity / Tipografia padrão para clareza */
   --pd-main-font: "Arial", "Helvetica", sans-serif;
 }
